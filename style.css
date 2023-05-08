@@ -1,0 +1,28 @@
+/*external css file*/
+
+#para1{
+    background-color:azure;
+    color:black;
+}
+#para2{
+    background-color:antiquewhite;
+
+}
+div{
+    background-color:aquamarine;
+}
+h1{
+    color:purple;
+}
+.text-center{
+    text-align:center:
+}
+.common-font{
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+}
+
+
+
+
