@@ -1,0 +1,31 @@
+p {
+	font-size: 60px;
+	color: red;
+}
+
+ul {
+	display: inline-flex;
+	list-style: none;
+}
+
+/*this media query for tab*/
+
+@media only screen and (max-device-width:800px) and (min-device-width:550px) {
+	p {
+		font-size: 40px;
+		color: yellow;
+	}
+}
+
+
+/*this media query for mobile*/
+@media only screen and (max-device-width:500px) and (min-device-width:250px) {
+	p {
+		font-size: 20px;
+		color: blue;
+	}
+
+	ul {
+		display: block;
+	}
+}

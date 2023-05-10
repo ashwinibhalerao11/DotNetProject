@@ -1,0 +1,19 @@
+#d1 {
+    background-color: aqua;
+    position: relative;
+    top: 0;
+    height: 260px;
+    width: 100%;
+}
+#d2 {
+     background-color: antiquewhite;
+    position: absolute;
+    top: 200px;
+    z-index: 2;
+    width: 22%; 
+    
+}
+#d3 {
+    position: absolute;
+    top: 0;
+}

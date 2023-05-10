@@ -1,0 +1,30 @@
+body{
+	margin :0;
+	padding :0;
+}
+.menu{
+	background-color:aquamarine;
+	width:100%;
+}
+.carousel-inner{
+	height :400px;
+}
+.spacing{
+	margin-top :20px;
+}
+.card{
+	border :1px solid lightgray;
+	box-shadow: 3px 3px 2px lightgray;
+}
+#contact-form{
+	position:relative ;
+	top:20px;
+}
+/*this media query for tab*/
+@media only screen and (max-device-width:800px) and (min-device-width:550px){
+
+}
+/*this media query for moble*/
+@media only screen and (max-device-width:500px) and (min-device-width:250px){
+
+}

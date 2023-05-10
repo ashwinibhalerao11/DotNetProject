@@ -1,0 +1,17 @@
+#d1 ~ div {
+    background-color: aquamarine;
+}
+
+ul {
+    list-style: none;
+}
+
+    ul li .link {
+        font-size: 22px;
+        text-decoration: none;
+        color: deeppink;
+    }
+
+        ul li .link:hover {
+            color: purple;
+        }
