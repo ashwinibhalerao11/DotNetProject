@@ -20,6 +20,10 @@ body{
 	position:relative ;
 	top:20px;
 }
+#register-form {
+	position: relative;
+	top: 20px;
+}
 /*this media query for tab*/
 @media only screen and (max-device-width:800px) and (min-device-width:550px){
 
